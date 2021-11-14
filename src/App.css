@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.whats-app{
+  display: flex;
+  justify-content: start;
+}
